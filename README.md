@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Eduardo Duarte Picheke 😁
 
  <div>
    <a href="https://github.com/Eduardo-Duarte-picheke">
